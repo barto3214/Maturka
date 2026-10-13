@@ -7,7 +7,7 @@ public class Master {
     public static void main(String[] args) throws FileNotFoundException {
         System.out.println(fun_rek(99887766554432122l));
         System.out.println(licznik);
-        System.out.println(przestaw2(1234));
+        System.out.println(przestaw2(10002));
 
     }
     public static long fun_rek(long n){
